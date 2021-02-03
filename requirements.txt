@@ -1,0 +1,5 @@
+torch
+torchvision
+Image
+opencv-python
+scikit-image
